@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "mCinotti"
-Published: true
+title: "Resume"
+Published: "true"
 ---
 
 <head>
@@ -79,7 +79,7 @@ Published: true
     <!-- Place Badges Here -->
   </div>
   <div class="credits">
-    <p>© 1987-2023</p>
+    <p>Martin Cinotti © 1987-2023</p>
   </div>
 </footer>
 <!-- End Footer -->
