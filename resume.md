@@ -14,6 +14,9 @@ Published: "true"
   <!-- End MagicPuddle CSS -->
 </head>
 
+<!-- Begin Main Body  -->
+<main id="main-content">
+<!-- Main Card Start-->
 <div class="card">
   <div class="card-body">
     <h2>Work Experience</h2>
@@ -39,4 +42,5 @@ Published: "true"
           </p>
   </div>
 </div>
+</main>
 <!-- Main Card End -->
