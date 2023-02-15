@@ -26,9 +26,9 @@ Published: "true"
       <h4>Developer MagicPuddle</h4>
         <h6>2020 - Present</h6>
         <p>
-          Oversee general operations and project focus.
+          Manage general operations and project focus.
           Engineering and developing niche hardware and software systems.
-          Administering and Maintaining in house and remote managed IT systems for clients.
+          Administering repairing and Maintaining in house and remote managed IT systems.
         </p>
       <h4>Contracted Technician and Developer</h4>
         <h6>2007 - 2020</h6>
