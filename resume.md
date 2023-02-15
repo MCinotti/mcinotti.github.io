@@ -6,20 +6,11 @@ Published: "true"
 
 <head>
   <!-- Basic Needs -->
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="Description" content="Enter your description here" />
+  <meta name="Description" content="Github.io page for MCinotti" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.6.0/darkly/bootstrap.min.css"
     crossorigin="anonymous" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"
     crossorigin="anonymous" />
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="assets/img/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png" />
-  <link rel="manifest" href="manifest.webmanifest" />
 
  <!-- MagicPuddle CSS -->
   <link href='https://d33wubrfki0l68.cloudfront.net/bundles/d32625a34617df2b5daf9728883f08c5dd7ac0d8.css' rel='stylesheet'/>
@@ -27,35 +18,38 @@ Published: "true"
 <!-- End MagicPuddle CSS -->
   
 <!-- Page Name -->
-  <title>
+<title>
     Martin Cinotti
-  </title>
+</title>
 </head>
 
 <body>
-  <header id="home">
-    <!-- Begin Main Body -->
-    <main id="main-content">
-      <!-- Banner Begin-->
-        <div height="250px">
-          <div class="card-img-top">
-            <img class="container" src="https://d33wubrfki0l68.cloudfront.net/de4370d1131de37bf7757a6bd5f3dda0e7d5f448/94c9a/assets/img/mc-galaxy-banner.png" alt="large logo image"/>
-          </div>
-        </div>
-      <!-- Banner End -->
-  </header>
-
+<!-- Banner Begin-->
+  <div height="250px">
+    <div class="card-img-top">
+      <img class="container" src="https://d33wubrfki0l68.cloudfront.net/de4370d1131de37bf7757a6bd5f3dda0e7d5f448/94c9a/assets/img/mc-galaxy-banner.png" alt="large logo image"/>
+    </div>
+  </div>
+<!-- Banner End -->
+<!-- Begin Main Body  -->
+<main id="main-content">
 <!-- Main Card Start-->
-<div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+<div class="">
   <hr>
   <div class="card">
     <div class="card-body">
       <h2>Work Experience</h2>
-        <hr>
+      <h4>Developer @MagicPuddle</h4>
+        <h6>2020 - Present</h6>
+        <p>
+          Building, repairing, and managing computer hardware and software systems.
+          Developing managed IT services for clients.
+        </p>
       <h4>Contracted Technician and Developer</h4>
-        <h6>2007 - Present</h6>
+        <h6>2007 - 2020</h6>
       <p>
-        Working local and remote with organizations and individuals.
+        Working with local and remote organizations and individuals.
+        Building, repairing, and managing computer hardware and software systems.
       </p>
         <hr>
       <h4>Other Positions</h4>
@@ -64,6 +58,9 @@ Published: "true"
           Maintained various jobs at resturants, bars, repair shops, Handy Man, construction and other odd jobs alongside the previously mentioned.
           Some of theese jobs included managment and or supervisory roles. 
           </p>
+    </div>
+    <div>
+      <p>Please feel free to contact me about my work and expirience.</p>
     </div>
   </div>
 <br>
@@ -79,7 +76,7 @@ Published: "true"
     <!-- Place Badges Here -->
   </div>
   <div class="credits">
-    <p>Martin Cinotti © 1987-2023</p>
+    <p>© 1987 - 2023</p>
   </div>
 </footer>
 <!-- End Footer -->
