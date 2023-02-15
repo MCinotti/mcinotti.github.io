@@ -50,8 +50,9 @@ layout: page
 <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
   <hr>
   <div class="card">
+  <h2>Work Experience</h2>
     <div class="card-body">
-      <h2>Work Experience</h2>
+      
         <hr>
       <h4>Contracted Technician and Developer</h4>
         <h6>2007 - Present</h6>
@@ -72,6 +73,7 @@ layout: page
     <div class="card-body">
       <h2>Education</h2>
       <p>
+         Eight years 
       </p>
       <p>
       </p>
