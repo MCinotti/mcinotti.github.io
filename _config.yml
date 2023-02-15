@@ -18,9 +18,9 @@ defaults:
 
 projects:
   sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
+  sort_by options:
+     - pushed
+     - stars
   limit: 9
   exclude:
     archived: false
@@ -47,6 +47,11 @@ projects:
   # youtube: your_username
 
 topics:
+
+  - name: MacOS
+    web_url: https://github.com/topics/macos
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/macos/macos.png
+
   - name: freeBSD
     web_url: https://github.com/topics/freebsd
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/freebsd/freebsd.png
