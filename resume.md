@@ -30,16 +30,15 @@ Published: "true"
 <!-- Begin Main Body  -->
 <main id="main-content">
 <!-- Main Card Start-->
-<div class="">
-  <hr>
   <div class="card">
     <div class="card-body">
       <h2>Work Experience</h2>
-      <h4>Developer @MagicPuddle</h4>
+      <h4>Developer MagicPuddle</h4>
         <h6>2020 - Present</h6>
         <p>
-          Building, repairing, and managing computer hardware and software systems.
-          Developing managed IT services for clients.
+          Oversee general operations and project focus.
+          Engineering and developing niche hardware and software systems.
+          Administering and Maintaining in house and remote managed IT systems for clients.
         </p>
       <h4>Contracted Technician and Developer</h4>
         <h6>2007 - 2020</h6>
@@ -55,15 +54,10 @@ Published: "true"
           Some of theese jobs included managment and or supervisory roles. 
           </p>
     </div>
-    <div>
-      <p>Please feel free to contact me about my work and expirience.</p>
-    </div>
   </div>
 <br>
 </div>
-<hr>
 </main>
-<hr>
 <!-- Main Card End -->
     
 <!-- Begin Footer -->
