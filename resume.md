@@ -1,9 +1,8 @@
 ---
 layout: page
+title: "mCinotti"
+Published: true
 ---
-
-<!DOCTYPE html>
-<html lang="en">
 
 <head>
   <!-- Basic Needs -->
@@ -50,9 +49,8 @@ layout: page
 <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
   <hr>
   <div class="card">
-  <h2>Work Experience</h2>
     <div class="card-body">
-      
+      <h2>Work Experience</h2>
         <hr>
       <h4>Contracted Technician and Developer</h4>
         <h6>2007 - Present</h6>
@@ -63,31 +61,17 @@ layout: page
       <h4>Other Positions</h4>
         <h6>Past - Present</h6>
           <p>
-          Maintained various jobs at resturants, bars, repair shops, construction and other odd jobs alongside the previously mentioned.
+          Maintained various jobs at resturants, bars, repair shops, Handy Man, construction and other odd jobs alongside the previously mentioned.
           Some of theese jobs included managment and or supervisory roles. 
           </p>
     </div>
   </div>
 <br>
-  <div class="card">
-    <div class="card-body">
-      <h2>Education</h2>
-      <p>
-         Eight years 
-      </p>
-      <p>
-      </p>
-    </div>
-  </div>
 </div>
 <hr>
-  </div>
-</div>
-<!-- Main Card End -->
-</div>
-</div>
 </main>
 <hr>
+<!-- Main Card End -->
     
 <!-- Begin Footer -->
 <footer class="footer">
