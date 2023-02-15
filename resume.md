@@ -38,7 +38,7 @@ layout: page
     <!-- Begin Main Body -->
     <main id="main-content">
       <!-- Banner Begin-->
-        <div height="208px" class="container">
+        <div height="250px">
           <div class="card-img-top">
             <img class="container" src="https://d33wubrfki0l68.cloudfront.net/de4370d1131de37bf7757a6bd5f3dda0e7d5f448/94c9a/assets/img/mc-galaxy-banner.png" alt="large logo image"/>
           </div>
@@ -51,21 +51,19 @@ layout: page
   <hr>
   <div class="card">
     <div class="card-body">
-      <h2>Experience</h2>
+      <h2>Work Experience</h2>
         <hr>
       <h4>Contracted Technician and Developer</h4>
         <h6>2007 - Present</h6>
       <p>
-        Working local and remote project with organizations and individuals.
+        Working local and remote with organizations and individuals.
       </p>
         <hr>
       <h4>Other Positions</h4>
         <h6>Past - Present</h6>
           <p>
-          Maintained various jobs at resturants, bars, car repair shops, construction and other odd jobs alongside the previously mentioned.
-          Some of theese jobs included managment and or supervisory positions. 
-          Some jobs may have required special certificates to accompany certain job titles.
-          Such as, Kitchen Manager position, requiring FSP food safety manager license.
+          Maintained various jobs at resturants, bars, repair shops, construction and other odd jobs alongside the previously mentioned.
+          Some of theese jobs included managment and or supervisory roles. 
           </p>
     </div>
   </div>
@@ -73,9 +71,9 @@ layout: page
   <div class="card">
     <div class="card-body">
       <h2>Education</h2>
-      <p
+      <p>
       </p>
-      <p
+      <p>
       </p>
     </div>
   </div>
