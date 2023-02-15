@@ -19,16 +19,15 @@ Published: "true"
 
 <!-- Begin Main Body  -->
 <main id="main-content">
-<!-- Main Card Start-->
   <div class="card">
     <div class="card-body">
       <h2>Work Experience</h2>
-      <h4>Developer MagicPuddle</h4>
+      <h4>MagicPuddle</h4>
         <h6>2020 - Present</h6>
         <p>
           Manage general operations and project focus.
           Engineering and developing niche hardware and software systems.
-          Administering repairing and Maintaining in house and remote managed IT systems.
+          Administering, repairing, and Maintaining in house and remote IT systems.
         </p>
       <h4>Contracted Technician and Developer</h4>
         <h6>2007 - 2020</h6>
@@ -45,6 +44,5 @@ Published: "true"
           </p>
     </div>
   </div>
-</div>
 </main>
-<!-- Main Card End -->
+<!-- Main Body End -->
