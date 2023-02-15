@@ -1,16 +1,16 @@
-<!-- Banner Begin-->
-  <div height="250px">
-    <div class="card-img-top">
-      <img class="container" src="https://d33wubrfki0l68.cloudfront.net/de4370d1131de37bf7757a6bd5f3dda0e7d5f448/94c9a/assets/img/mc-galaxy-banner.png" alt="large logo image"/>
-    </div>
-  </div>
-<!-- Banner End -->
-
 ---
 layout: page
 title: "Resume"
 Published: "true"
 ---
+
+<!-- Banner Begin-->
+  <div height="250px" width="100%">
+    <div class="card-img-top">
+      <img class="container" src="https://d33wubrfki0l68.cloudfront.net/de4370d1131de37bf7757a6bd5f3dda0e7d5f448/94c9a/assets/img/mc-galaxy-banner.png" alt="large logo image"/>
+    </div>
+  </div>
+<!-- Banner End -->
 
 <head>
   <!-- Basic Needs -->
