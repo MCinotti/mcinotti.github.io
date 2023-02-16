@@ -51,28 +51,11 @@ topics:
   - name: MacOS
     web_url: https://github.com/topics/macos
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/macos/macos.png
-    
-  - name: Darwin
-    web_url: https://github.com/topics/darwin
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/darwin/darwin.png
-
-  - name: Windows
-    web_url: https://github.com/topics/windows
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/windows/windows.png
 
   - name: Linux
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
 
-  - name: GNU
-    web_url: https://github.com/topics/gnu
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/gnu/gnu.png
-
-  - name: freeBSD
-    web_url: https://github.com/topics/freebsd
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/freebsd/freebsd.png
-
-  
-
-  
-
+  - name: Windows
+    web_url: https://github.com/topics/windows
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/windows/windows.png
