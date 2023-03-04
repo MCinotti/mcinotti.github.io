@@ -1,5 +1,5 @@
-# [mcinotti.github.io][preview link]
+# [mcinotti.github.io][title link]
 
 *GitHub.io portfolio page.*
 
-[preview link]: https://mcinotti.github.io
+[title link]: https://mcinotti.github.io

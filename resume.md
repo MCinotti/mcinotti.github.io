@@ -25,9 +25,9 @@ Published: "true"
       <h4>MagicPuddle</h4>
         <h6>2020 - Present</h6>
         <p>
-          Manage general operations and project focus.
-          Engineering and developing niche hardware and software systems.
-          Administering, repairing, and Maintaining in house and remote IT systems.
+          General operations and project managment.
+          Engineering and developing hardware and software systems.
+          Administer, repair, and Maintain in house and remote IT systems.
         </p>
       <h4>Contracted Technician and Developer</h4>
         <h6>2007 - 2020</h6>
