@@ -47,18 +47,17 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Makers
-    web_url: https://github.com/topics/makers
-    mage_url: https://www.teachhub.com/wp-content/uploads/2020/06/What-is-Maker-Education-768x512.jpg
     
   - name: freeBSD
     web_url: https://github.com/topics/freebsd
     image_url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/01/freebsd-devil-284x300.jpg
 
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
+
   - name: Darwin
     web_url: https://github.com/topics/darwin
     image_url: https://avatars.githubusercontent.com/u/10107359?s=200&v=4
     
-  - name: Linux
-    web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/linux/linux.png
+  
