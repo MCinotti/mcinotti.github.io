@@ -29,11 +29,10 @@ Published: "true"
           Engineering and developing hardware and software systems.
           Administer, repair, and Maintain in house and remote IT systems.
         </p>
-      <h4>Contracted Technician and Developer</h4>
+      <h4>Contract Work</h4>
         <h6>2007 - 2020</h6>
       <p>
-        Working with local and remote organizations and individuals.
-        Building, repairing, and managing computer hardware and software systems.
+        Working with local and remote organizations and individuals from diffrent trades.
       </p>
         <hr>
       <h4>Other Positions</h4>
