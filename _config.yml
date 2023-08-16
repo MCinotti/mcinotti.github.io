@@ -1,9 +1,12 @@
 # Site Configuration
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dark # Change the theme to a dark theme
 title: McInotti's Awesome Portfolio
 description: Exploring the World of Technology
 url: https://mcinotti.github.io
 baseurl: ""
+
+# Add Dark Theme Configuration
+dark_theme: true
 
 # GitHub Pages Configuration
 plugins:
