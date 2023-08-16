@@ -1,54 +1,45 @@
-layout: sidebar
-style: dark
+# Site Configuration
+theme: jekyll-theme-minimal
+title: McInotti's Awesome Portfolio
+description: Exploring the World of Technology
+url: https://mcinotti.github.io
+baseurl: ""
 
+# GitHub Pages Configuration
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
 
+# Permalink Structure
 permalink: /:year/:month/:day/:title/
 
+# Default Layout for Posts
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "" # All files in the project
       type: "posts"
     values:
       layout: "post"
 
+# Projects Configuration
 projects:
-  sort_by: pushed
-  sort_by options:
-     - pushed
-     - stars
+  sort_by: pushed # Sort projects by "pushed" date
   limit: 9
   exclude:
     archived: false
     forks: true
-    # projects:
-    # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+# Social Media Links
+#social_media:
+#  twitter: mcinotti_dev
+#  linkedin: your-linkedin-username
+#  website: https://www.mcinotti.com
 
+# Topics Configuration
 topics:
-    
-  - name: freeBSD
+  - name: FreeBSD
     web_url: https://github.com/topics/freebsd
     image_url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2015/01/freebsd-devil-284x300.jpg
 
@@ -59,5 +50,3 @@ topics:
   - name: Darwin
     web_url: https://github.com/topics/darwin
     image_url: https://avatars.githubusercontent.com/u/10107359?s=200&v=4
-    
-  
